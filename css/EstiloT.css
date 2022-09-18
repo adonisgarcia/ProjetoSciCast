@@ -1,0 +1,43 @@
+body{
+    background-color: #CD853F;
+    position: relative;
+    margin-bottom: 3%;
+    margin-top: -8px;
+}
+#nav{
+    background-color: #ffffff;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+    
+}
+.banner{
+    alignment-adjust: center;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+#nav_wrapper{
+    width: 940px;
+    margin: 0 auto;
+    text-align: center;
+}
+div.rodape{
+    margin-right: 3%;
+    margin-left: 3%;
+    background-color: #ffffff;
+}
+div.rodape_letra{
+    text-align: center;
+    color: #000000;
+    font-size: 15pt;
+}
+#margem{
+    margin-right: 1%;
+    margin-left: 1%;
+    margin-bottom: 3%;
+    background-color: #FFFAF0;
+}

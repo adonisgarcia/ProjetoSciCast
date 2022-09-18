@@ -1,0 +1,28 @@
+div.estilo1{
+    color: #000000;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: center;
+    alignment-adjust: center;
+}
+div.estilo2{
+    font-family: "Arial", Helvetica, sans-serif;
+    font-size: 15px;
+    color: #000000;
+    text-indent: 20px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: justify;
+}
+div.estilo3{
+    color: #000000;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: center;
+    alignment-adjust: center;
+}
+
+p{
+    text-indent: 3em;
+    
+}

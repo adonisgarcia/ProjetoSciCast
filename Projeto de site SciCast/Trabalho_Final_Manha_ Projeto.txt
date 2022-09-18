@@ -1,0 +1,37 @@
+Temas
+
+Adonis - SCICast;
+Adriano - Megadeth;
+Carlos - Star Wars;
+Cassius - Tecnologias Educacionais;
+Cesar - Moto Cross;
+Cristiano - The Wlaking Dead;
+Diego - Metálica.
+
+Deve conter:
+
+* Até 7 hyperlinks;
+* Galeria de fotos;
+* Fale conosco -> com banco de dados;
+* Home com mais três hiperlinks sobre o assunto abordado;
+* Download de músicas, séries ou vídeos.
+
+
+links:
+
+http://www.scicast.com.br/scicast-009-energia-nuclear-parte-1-com-luiz-gonzaga-e-carlos-cardoso/
+
+https://docs.google.com/spreadsheets/d/1LQD6t8vwt0hBJyBy_1L_NFBSnaqwTJ4dwfUsi-ez5Pg/edit#gid=0
+
+http://www.scicast.com.br/seja-um-patrono-do-scicast/
+
+https://plus.google.com/+SciCastBR/posts
+
+https://twitter.com/scicastpodcast
+
+http://www.scicast.com.br/
+
+http://www.scicast.com.br/wp-content/uploads/2015/07/Scicast_mediaKit_Branco.pdf
+
+http://www.apolo11.com/escala_planetas.php
+
